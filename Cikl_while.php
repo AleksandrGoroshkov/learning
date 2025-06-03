@@ -8,8 +8,8 @@ echo "<br>";
 
 
 
-$counter = 1;
-while($counter<10):
-    echo $counter * $counter . "<br />";
-    $counter +=3;
+$con = 1;
+while($con<10):
+    echo $con * $con . "<br />";
+    $con +=3;
 endwhile;
