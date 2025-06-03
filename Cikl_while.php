@@ -14,5 +14,5 @@ echo "<br>";
 $counter = 1;
 while($counter<10):
     echo $counter * $counter . "<br />";
-    $counter +=2;
+    $counter +=3;
 endwhile;
